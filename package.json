@@ -12,6 +12,7 @@
     "test:watch": "vitest",
     "typecheck": "tsc -b",
     "test:coverage": "vitest run --coverage"
+    "lint": "eslint ."
   },
   "dependencies": {
     "react": "^19.3.1",
